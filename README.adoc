@@ -1,0 +1,17 @@
+= Replace-xml
+Thomas Calatayud
+
+*This script replace a text from a tag in a xml file list*
+
+_For more help for how to use this script please see --help_
+
+[examples]
+----
+  ./replace-xml.py file.xml -t tag -r NewText
+
+  ./replace-xml.py file1.xml file2.xml -t tag -r NewText
+
+  ./replace-xml.py *.xml -t tag -r NewText
+----
+
+_Those examples will replace the text between the <tag> </tag> to "NewText" in the file or the list of files specify before the -t argument_
