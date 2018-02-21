@@ -3,7 +3,7 @@ Thomas Calatayud
 
 *This script replace a text from a tag in a xml file list*
 
-_For more help for how to use this script please see --help_
+_For more help for how to use this script please see --help or see those examples_
 
 [examples]
 ----
